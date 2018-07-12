@@ -2,9 +2,8 @@
 
 The age of digital love spaces has begun.
 
----
 ## Abstract
----
+
 Modern technology is about to fundamentally change our understanding and of physical space.
 
 Since love is bound to the presence of our physical body, love is bound to our concepts of physical space.
@@ -12,18 +11,16 @@ The order of space determines the order of love.
 
 (And this is about to change fundamentally!)
 
----
 ## Derivation
----
+
 One of the core concepts of (physical) space are it's limitations which are set by the perspective a space is seen from. Without it's boundaries a space wouldn't be space.  
 
 Creating virtual space(s) within physical space is not less than the approach to multiply space.
 
 We're about to experience the delimitaion of space.
 
----
 ## Ideological Call:
----
+
 Let us recognize the potential of the new technological order of physical space!
 
 Burn down our analoge bodies! Let us release our minds into the freedom of new love and lifeconecepts!
@@ -32,9 +29,8 @@ Free ourselfes from the old letters of power! Let us unfold ourselfes into the m
 
 Escape the boundaries of the old dualisms! Let us conquer the new spaces of unlimited love!
 
----
 ## Concrete Call:
----
+
 Recreate existing applications if you do not aggree with values it reproduces and the structures in which their data is represented in.
 
 There is always a way to change the way data is shown in an app. If an app's data is perceptible by you it is presentable in a different way.
