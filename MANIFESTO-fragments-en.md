@@ -20,7 +20,7 @@ Tinder creates a social space. Tinder might even create countless social spaces.
 
 ---
 
-1. Data is the material of digital spaces.
+1. Data is the material of (digital) spaces.
 
 2. Applications are the form of the material.
 
