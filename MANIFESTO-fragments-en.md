@@ -1,4 +1,4 @@
-# Fragments On Love And Spaces
+# Fragments On Love And Space
 
 These are just loose fragments. They make no claim to completeness.
 
