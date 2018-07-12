@@ -33,7 +33,7 @@ Recreate existing applications if you do not aggree with values it reproduces an
 
 There is always a way to change the way data is shown in an app. If an app's data is perceptible by you it is presentable in a different way.
 
-Try to construct the space an app creates. Does it include eneryone and everything? If it doesnt re-create the app and add those who are overseen!
+Try to imaginary construct the space an app creates. Does it include eneryone and everything?If it doesnt re-create the app and add those who are overseen!
 
 Re-create digital spaces if you do not agree with them!
 
