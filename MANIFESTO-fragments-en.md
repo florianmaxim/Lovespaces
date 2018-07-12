@@ -12,6 +12,13 @@ These are just loose fragments. They make no claim to completeness.
 
 ---
 
+1. We create social spaces by the usage of technology. 
+
+2. The technology through which we use those spaces creates and influences them as well.
+
+---
+---
+
 1. Data is the material of digital spaces.
 
 2. Applications are the form of the material.
@@ -32,15 +39,7 @@ The way applications modify information by the way it presents and structures da
 
 3. Using a different presentation we can actually modify or even change the information of the data itself.
 
-Let's say the tinder app displays five recommendations at a time, we would instantly receive a complete different information in that moment.
-
----
-
-1. We create social spaces by the usage of technology. 
-
-2. The technology through which we use those spaces creates and influences them as well.
-
-------
+Let's say we (re-)build tinder. We build another application that shows all incoming recommendations at a time. We would use the same data creating a different information (We see them all right now so they do all exist right now). 
 
 
 
