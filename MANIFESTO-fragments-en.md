@@ -1,5 +1,9 @@
 # Fragments On Love And Spaces
 
+These are just loose fragments. They make no claim to completeness.
+
+---
+
 1. Technology is about to change our understanding of physical space fundamentally.
 
 2. Love can require physical presence.
