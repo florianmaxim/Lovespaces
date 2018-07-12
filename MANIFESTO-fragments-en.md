@@ -14,7 +14,7 @@
 
 3. We can not perceive one without the other.
 
-So the app that presents data is ultimately always part of the data itself.
+So the app that presents data is ultimately always part of the data and therefore the information itself.
 
 Let's say tinder sends two recommendations to someone's app. That data includes the information that those two human beings exist at the same time. The app though shows one person at a time only. Hence, the information received as data is modified by the app through which we perceive the information.
 
