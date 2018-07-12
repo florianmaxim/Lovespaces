@@ -14,3 +14,6 @@ Digital Love Spaces / Match Yourself
 
 # Quotes
 "Anonymous digital spaces arent the utopia we're looking for" (Ani)
+
+# Visualization
+If I'd less luxery products in a very attractive virtual space. And this is placed in a museum. Do I have to pay the museum a fee because I'm using it's physical space?
