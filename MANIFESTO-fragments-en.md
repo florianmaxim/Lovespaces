@@ -17,6 +17,7 @@ These are just loose fragments. They make no claim to completeness.
 2. The technology through which we use those spaces creates and influences them as well.
 
 Tinder creates a social space. Tinder might even create countless social spaces. Once I establishes a chanel of communication with another human being through tinder I am in a social space. My matches and me can be seen as another social space. Tinder as a whole can be defined as a social space as well. There are as many (digital and non-digital) spaces as perspectives tinder can be seen from.
+
 ---
 
 1. Data is the material of digital spaces.
