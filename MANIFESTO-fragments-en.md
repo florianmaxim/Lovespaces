@@ -1,4 +1,4 @@
-# Fragments On Love And Spaces (digital)
+# Fragments On Love And Spaces
 
 1. Technology is about to change our understanding of physical space fundamentally.
 
